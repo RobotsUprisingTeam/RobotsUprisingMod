@@ -29,7 +29,7 @@ The Robots Uprising Team did some documents to describe our vision of the projec
 
 In the folder Documents, you will find some documents we did for our exams
 
-### ✨ GAMEPLAY CHANGES ✨
+## ✨ GAMEPLAY CHANGES ✨
 
 - Resources collecting changes : If you want to collect resources, you will have to build a drill (it will have to match the resource it will drill to). To collect resources, you will have to make your workers OR your resources transporter (spaceship) gather the resources directly from the drill.
 - New resource : This mod adds a new resource : Starcilite. This resource appears every 5 minutes on the map, randomly placed. To collect it, only your workers will be useful. This resource will make you able to build a factory which is able to create a MEKA Elite unit.
@@ -39,7 +39,7 @@ In the folder Documents, you will find some documents we did for our exams
 **[To learn more about all the new mechanics, you can download the GameDesignDocument.pdf in the following folder : Documents/GameDesignDocument.pdf and go to the page 22.]**
 
 
-### 🗺️ NEW MAPS 🗺️  
+## 🗺️ NEW MAPS 🗺️  
 
 This mod is only available on 3 maps, especially created to match the new mechanics of the project. 
 
@@ -48,7 +48,7 @@ This mod is only available on 3 maps, especially created to match the new mechan
 -  ☀️ Mars : A 1vs1 rocky map in a hot atmosphere.
 
 
-###  🖥️ Install 🖥️
+##  🖥️ Install 🖥️
 
 Copy / Paste the file "local.cfg" (it changes the camera zoom in game) in the following folder : "alpha/binaries/data/config". Don't delete "default.cfg".
 
